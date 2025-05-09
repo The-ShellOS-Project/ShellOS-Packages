@@ -1,10 +1,4 @@
 {
-  // Template:
-  // "lowercase-name": {
-  //   "file": "ExactFileName.zip or .py",
-  //   "description": "Description of what the package does"
-  // }
-
   "fuadeos-shellos": {
     "file": "FuadeOS-ShellOS.zip",
     "description": "Custom shell environment for ShellOS with multitasking and a launcher"
