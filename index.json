@@ -1,6 +1,6 @@
 {
-  "fuadeos-shellos": {
-    "file": "FuadeOS-ShellOS.zip",
-    "description": "Custom shell environment for ShellOS with multitasking and a launcher"
+  "test": {
+    "file": "test.py",
+    "description": "test program for the ShellOS Package Manager"
   }
 }
