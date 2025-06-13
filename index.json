@@ -6,9 +6,5 @@
   "guython": {
     "file": "guython1.1.0b2556.zip",
     "description": "Guython for ShellOS"
-  },
-  "guython2": {
-    "file": "guython1.1.0b2556.zip",
-    "description": "Guython for ShellOS"
   }
 }
