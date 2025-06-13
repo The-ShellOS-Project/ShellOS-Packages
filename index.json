@@ -2,8 +2,7 @@
   "test": {
     "file": "test.py",
     "description": "test program for the ShellOS Package Manager"
-  }
-
+  },
   "guython": {
     "file": "guython1.1.0b2556.zip",
     "description": "Guython for ShellOS"
