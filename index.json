@@ -6,9 +6,5 @@
   "guython": {
     "file": "packages/guython1.1.0b2556.zip",
     "description": "Guython for ShellOS"
-  },
-    "test1": {
-    "file": "packages/test.zip",
-    "description": "test"
   }
 }
